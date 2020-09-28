@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  font-family: arial, sans-serif;
+}
+h1, h2, p, ul, ol {
+  background-color: white;
+}
+a {
+  color: #59C3C3;
+}
